@@ -1,5 +1,7 @@
-function tocaSompom() {
-    document.querySelector('#som_tecla_pom').play()
+//pom---------------------------
+function tocasompom(){
+    document.querySelector(`#som_tecla_pom`)
+
 }
 
-document.querySelector('#som_tecla_pom')
+   const listaDeTeclas = document.querySelector(`tecla`)
